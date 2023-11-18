@@ -1,0 +1,15 @@
+.text {
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    padding-top: 5em;
+    font-weight: 900;
+}
+
+.box {
+    background-image: url(sh1.png);
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+}
